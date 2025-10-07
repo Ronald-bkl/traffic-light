@@ -10,8 +10,8 @@ const int greenP = 4;
 const int redP = 2;
 const int yellowP = 3;
 
-int t3 = 3000;
-int t2 = 2000;
+int t3 = 5000;
+int t2 = 3000;
 int t1 = 1000;
 
 bool afterGreen = true; 
